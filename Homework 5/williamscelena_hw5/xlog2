@@ -1,0 +1,15 @@
+UTILS: open succeeded for 'xlog2'
+UTILS: open the output file 'xout2'
+UTILS: open succeeded for 'xout2'
+Main: Beginning execution
+Main: infile  'xinput2.txt'
+Main: outfile 'xout2'
+Main: logfile 'xlog2'
+UTILS: open the input file 'xinput2.txt'
+UTILS: open succeeded for 'xinput2.txt'
+UTILS: close the input file
+UTILS: the input file was closed
+Main: Ending execution
+UTILS: close the output file
+UTILS: the output file was closed
+UTILS: close the output file

@@ -1,0 +1,15 @@
+UTILS: open succeeded for 'xlog4'
+UTILS: open the output file 'xout4'
+UTILS: open succeeded for 'xout4'
+Main: Beginning execution
+Main: infile  'xinput4.txt'
+Main: outfile 'xout4'
+Main: logfile 'xlog4'
+UTILS: open the input file 'xinput4.txt'
+UTILS: open succeeded for 'xinput4.txt'
+UTILS: close the input file
+UTILS: the input file was closed
+Main: Ending execution
+UTILS: close the output file
+UTILS: the output file was closed
+UTILS: close the output file

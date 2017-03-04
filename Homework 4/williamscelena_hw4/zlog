@@ -1,0 +1,423 @@
+UTILS: open succeeded for 'zlog'
+UTILS: open the output file 'zstdout'
+UTILS: open succeeded for 'zstdout'
+UTILS: open the input file 'zseed0013'
+UTILS: open succeeded for 'zseed0013'
+MAIN: Beginning execution
+MAIN: outfile 'zstdout'
+MAIN: logfile 'zlog'
+Random Number    0       70
+Random Number    1       55
+Random Number    2       21
+Random Number    3       78
+Random Number    4       75
+Random Number    5       81
+Random Number    6       87
+Random Number    7       16
+Random Number    8       88
+Random Number    9       69
+LEVEL   0 : FROM   0 :  
+   GOOD   [F   0  2]
+
+   NEW MAX   : ( 1) :  [T   0  2]
+
+  RETURN ExtendSeq  1
+   NO MATCH   [F   6  6]
+
+   NO MATCH   [F   7  2]
+
+   NO MATCH   [F   7  7]
+
+   NO MATCH   [F   8  5]
+
+   GOOD   [F   0 10]
+
+   NEW MAX   : ( 1) :  [T   0 10]
+
+  RETURN ExtendSeq  2
+   NO MATCH   [F  10  3]
+
+   NO MATCH   [F  10  5]
+
+   NO MATCH   [F  10 10]
+
+   NO MATCH   [F  11  2]
+
+   NO MATCH   [F  11  4]
+
+   NO MATCH   [F  11  6]
+
+   LOOPEND   LOOPEND 
+LEVEL   0 : FROM   1 :  
+   NO MATCH   [F   0  2]
+
+   NO MATCH   [F   6  6]
+
+   NO MATCH   [F   7  2]
+
+   NO MATCH   [F   7  7]
+
+   NO MATCH   [F   8  5]
+
+   NO MATCH   [F   0 10]
+
+   NO MATCH   [F  10  3]
+
+   NO MATCH   [F  10  5]
+
+   NO MATCH   [F  10 10]
+
+   NO MATCH   [F  11  2]
+
+   NO MATCH   [F  11  4]
+
+   NO MATCH   [F  11  6]
+
+   LOOPEND   LOOPEND 
+LEVEL   0 : FROM   2 :  
+   GOOD   [F   2  0]
+
+   NEW MAX   : ( 1) :  [T   2  0]
+
+  RETURN ExtendSeq  1
+   NO MATCH   [F   6  6]
+
+   GOOD   [F   2  7]
+
+   NEW MAX   : ( 1) :  [T   2  7]
+
+  RETURN ExtendSeq  2
+   NO MATCH   [F   7  7]
+
+   NO MATCH   [F   8  5]
+
+   NO MATCH   [F   0 10]
+
+   NO MATCH   [F  10  3]
+
+   NO MATCH   [F  10  5]
+
+   NO MATCH   [F  10 10]
+
+   GOOD   [F   2 11]
+
+   NEW MAX   : ( 1) :  [T   2 11]
+
+  RETURN ExtendSeq  3
+   NO MATCH   [F  11  4]
+
+   NO MATCH   [F  11  6]
+
+   LOOPEND   LOOPEND 
+LEVEL   0 : FROM   3 :  
+   NO MATCH   [F   2  0]
+
+   NO MATCH   [F   6  6]
+
+   NO MATCH   [F   2  7]
+
+   NO MATCH   [F   7  7]
+
+   NO MATCH   [F   8  5]
+
+   NO MATCH   [F   0 10]
+
+   GOOD   [F   3 10]
+
+   NEW MAX   : ( 1) :  [T   3 10]
+
+  RETURN ExtendSeq  1
+   NO MATCH   [F  10  5]
+
+   NO MATCH   [F  10 10]
+
+   NO MATCH   [F   2 11]
+
+   NO MATCH   [F  11  4]
+
+   NO MATCH   [F  11  6]
+
+   LOOPEND   LOOPEND 
+LEVEL   0 : FROM   4 :  
+   NO MATCH   [F   2  0]
+
+   NO MATCH   [F   6  6]
+
+   NO MATCH   [F   2  7]
+
+   NO MATCH   [F   7  7]
+
+   NO MATCH   [F   8  5]
+
+   NO MATCH   [F   0 10]
+
+   NO MATCH   [F   3 10]
+
+   NO MATCH   [F  10  5]
+
+   NO MATCH   [F  10 10]
+
+   NO MATCH   [F   2 11]
+
+   GOOD   [F   4 11]
+
+   NEW MAX   : ( 1) :  [T   4 11]
+
+  RETURN ExtendSeq  1
+   NO MATCH   [F  11  6]
+
+   LOOPEND   LOOPEND 
+LEVEL   0 : FROM   5 :  
+   NO MATCH   [F   2  0]
+
+   NO MATCH   [F   6  6]
+
+   NO MATCH   [F   2  7]
+
+   NO MATCH   [F   7  7]
+
+   GOOD   [F   5  8]
+
+   NEW MAX   : ( 1) :  [T   5  8]
+
+  RETURN ExtendSeq  1
+   NO MATCH   [F   0 10]
+
+   NO MATCH   [F   3 10]
+
+   GOOD   [F   5 10]
+
+   NEW MAX   : ( 1) :  [T   5 10]
+
+  RETURN ExtendSeq  2
+   NO MATCH   [F  10 10]
+
+   NO MATCH   [F   2 11]
+
+   NO MATCH   [F   4 11]
+
+   NO MATCH   [F  11  6]
+
+   LOOPEND   LOOPEND 
+LEVEL   0 : FROM   6 :  
+   NO MATCH   [F   2  0]
+
+   GOOD   [F   6  6]
+
+   NEW MAX   : ( 1) :  [T   6  6]
+
+  RETURN ExtendSeq  1
+   NO MATCH   [F   2  7]
+
+   NO MATCH   [F   7  7]
+
+   NO MATCH   [F   5  8]
+
+   NO MATCH   [F   0 10]
+
+   NO MATCH   [F   3 10]
+
+   NO MATCH   [F   5 10]
+
+   NO MATCH   [F  10 10]
+
+   NO MATCH   [F   2 11]
+
+   NO MATCH   [F   4 11]
+
+   GOOD   [F   6 11]
+
+   NEW MAX   : ( 1) :  [T   6 11]
+
+  RETURN ExtendSeq  2
+   LOOPEND   LOOPEND 
+LEVEL   0 : FROM   7 :  
+   NO MATCH   [F   2  0]
+
+   NO MATCH   [F   6  6]
+
+   GOOD   [F   7  2]
+
+   NEW MAX   : ( 1) :  [T   7  2]
+
+  RETURN ExtendSeq  1
+   GOOD   [F   7  7]
+
+   NEW MAX   : ( 1) :  [T   7  7]
+
+  RETURN ExtendSeq  2
+   NO MATCH   [F   5  8]
+
+   NO MATCH   [F   0 10]
+
+   NO MATCH   [F   3 10]
+
+   NO MATCH   [F   5 10]
+
+   NO MATCH   [F  10 10]
+
+   NO MATCH   [F   2 11]
+
+   NO MATCH   [F   4 11]
+
+   NO MATCH   [F   6 11]
+
+   LOOPEND   LOOPEND 
+LEVEL   0 : FROM   8 :  
+   NO MATCH   [F   2  0]
+
+   NO MATCH   [F   6  6]
+
+   NO MATCH   [F   7  2]
+
+   NO MATCH   [F   7  7]
+
+   GOOD   [F   8  5]
+
+   NEW MAX   : ( 1) :  [T   8  5]
+
+  RETURN ExtendSeq  1
+   NO MATCH   [F   0 10]
+
+   NO MATCH   [F   3 10]
+
+   NO MATCH   [F   5 10]
+
+   NO MATCH   [F  10 10]
+
+   NO MATCH   [F   2 11]
+
+   NO MATCH   [F   4 11]
+
+   NO MATCH   [F   6 11]
+
+   LOOPEND   LOOPEND 
+LEVEL   0 : FROM   9 :  
+   NO MATCH   [F   2  0]
+
+   NO MATCH   [F   6  6]
+
+   NO MATCH   [F   7  2]
+
+   NO MATCH   [F   7  7]
+
+   NO MATCH   [F   8  5]
+
+   NO MATCH   [F   0 10]
+
+   NO MATCH   [F   3 10]
+
+   NO MATCH   [F   5 10]
+
+   NO MATCH   [F  10 10]
+
+   NO MATCH   [F   2 11]
+
+   NO MATCH   [F   4 11]
+
+   NO MATCH   [F   6 11]
+
+   LOOPEND   LOOPEND 
+LEVEL   0 : FROM  10 :  
+   NO MATCH   [F   2  0]
+
+   NO MATCH   [F   6  6]
+
+   NO MATCH   [F   7  2]
+
+   NO MATCH   [F   7  7]
+
+   NO MATCH   [F   8  5]
+
+   GOOD   [F  10  0]
+
+   NEW MAX   : ( 1) :  [T  10  0]
+
+  RETURN ExtendSeq  1
+   GOOD   [F  10  3]
+
+   NEW MAX   : ( 1) :  [T  10  3]
+
+  RETURN ExtendSeq  2
+   GOOD   [F  10  5]
+
+   NEW MAX   : ( 1) :  [T  10  5]
+
+  RETURN ExtendSeq  3
+   GOOD   [F  10 10]
+
+   NEW MAX   : ( 1) :  [T  10 10]
+
+  RETURN ExtendSeq  4
+   NO MATCH   [F   2 11]
+
+   NO MATCH   [F   4 11]
+
+   NO MATCH   [F   6 11]
+
+   LOOPEND   LOOPEND 
+LEVEL   0 : FROM  11 :  
+   NO MATCH   [F   2  0]
+
+   NO MATCH   [F   6  6]
+
+   NO MATCH   [F   7  2]
+
+   NO MATCH   [F   7  7]
+
+   NO MATCH   [F   8  5]
+
+   NO MATCH   [F  10  0]
+
+   NO MATCH   [F  10  3]
+
+   NO MATCH   [F  10  5]
+
+   NO MATCH   [F  10 10]
+
+   GOOD   [F  11  2]
+
+   NEW MAX   : ( 1) :  [T  11  2]
+
+  RETURN ExtendSeq  1
+   GOOD   [F  11  4]
+
+   NEW MAX   : ( 1) :  [T  11  4]
+
+  RETURN ExtendSeq  2
+   GOOD   [F  11  6]
+
+   NEW MAX   : ( 1) :  [T  11  6]
+
+  RETURN ExtendSeq  3
+   LOOPEND   LOOPEND 
+LEVEL   0 : FROM  12 :  
+   NO MATCH   [F   2  0]
+
+   NO MATCH   [F   6  6]
+
+   NO MATCH   [F   7  2]
+
+   NO MATCH   [F   7  7]
+
+   NO MATCH   [F   8  5]
+
+   NO MATCH   [F  10  0]
+
+   NO MATCH   [F  10  3]
+
+   NO MATCH   [F  10  5]
+
+   NO MATCH   [F  10 10]
+
+   NO MATCH   [F  11  2]
+
+   NO MATCH   [F  11  4]
+
+   NO MATCH   [F  11  6]
+
+   LOOPEND   LOOPEND 
+MAIN: Ending execution
+UTILS: close the output file
+UTILS: the output file was closed
+UTILS: close the output file

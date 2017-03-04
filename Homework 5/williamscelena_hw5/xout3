@@ -1,0 +1,17 @@
+Distances
+Sentence ONE:
+[  ] | A | C | T | G | A | C | T | G | 
+Sentence TWO:
+[  ] | A | C | T | G | A | C | T | A | 
+
+Distance Matrix:
+				[  ]	 A	 C	 T	 G	 A	 C	 T	 G	 
+	 [  ]		0			0			2			3			4			5			6			7			8			
+	 A			0			0			1																					
+	 C			2			1			0			1																		
+	 T			3						1			0			1															
+	 G			4									1			0			1												
+	 A			5												1			0			1									
+	 C			6															1			0			1						
+	 T			7																		1			0			1			
+	 A			8																					1			2			
