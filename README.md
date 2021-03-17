@@ -1,4 +1,4 @@
-# college_cpp_course
+# CPP-U_of_SC_2015-2016
 
 I took this class my sophomore year at the University of South Carolina. This it the code I had to write for the class.
 
